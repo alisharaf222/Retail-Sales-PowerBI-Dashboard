@@ -17,10 +17,19 @@ Competition: Store Sales - Time Series Forecasting
 
 > Dataset is not included in this repo.
 
-## Screenshots
+## 📊 Dashboard Screenshots
+
+### Overview
 ![Overview](images/overview.png)
+
+### Sales Matrix
 ![Matrix](images/matrix.png)
+
+### Top Cities
 ![Cities](images/cities.png)
+
+### Data Model
+![Model](images/model.png)
 
 ## How to Use
 1. Download the `.pbix` file.
